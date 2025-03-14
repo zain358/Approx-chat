@@ -1,3 +1,5 @@
+const socket = io('https://your-app-name.vercel.app'); // Replace with your deployed backend URL
+
 (function(){
     const app = document.querySelector(".app");
     const socket = io();
