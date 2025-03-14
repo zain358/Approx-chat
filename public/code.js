@@ -1,4 +1,4 @@
-const socket = io('approx-chat.vercel.app
+const socket = io('approx-chat.vercel.app)
 '); // Replace with your deployed backend URL
 
 (function(){
