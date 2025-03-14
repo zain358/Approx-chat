@@ -1,4 +1,5 @@
-const socket = io('https://your-app-name.vercel.app'); // Replace with your deployed backend URL
+const socket = io('approx-chat.vercel.app
+'); // Replace with your deployed backend URL
 
 (function(){
     const app = document.querySelector(".app");
